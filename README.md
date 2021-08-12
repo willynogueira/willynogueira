@@ -1,4 +1,4 @@
-<img src = ".github/baby.jfif" width = "325px" align = "right">
+<img src = ".github/baby.jpg" width = "325px" align = "right">
 
 ###  Hi, I'm Willy Nogueira 👩‍💻
 
