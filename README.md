@@ -1,4 +1,4 @@
-<img src = ".github/baby.jpg" width = "325px" align = "right">
+<img src = "https://i.pinimg.com/564x/48/49/4c/48494cb951db61768d26307983da2171.jpg" width = "325px" align = "right">
 
 ###  Hi, I'm Willy Nogueira 👩‍💻
 
